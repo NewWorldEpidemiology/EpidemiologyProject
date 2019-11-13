@@ -5,16 +5,29 @@
     "home_page_url": "https://newworldepidemiology.github.io/EpidemiologyProject",
     "feed_url": "https://newworldepidemiology.github.io/EpidemiologyProject/feed.json",
     "user_comment": "",
-    "icon": "https://newworldepidemiology.github.io/EpidemiologyProject/media/website/Amerigo-Vespuccis-Map-Waldseemuller_1507.jpg",
     "author": {
         "name": "Pavan Tauh"
     },
     "items": [
         {
+            "id": "https://newworldepidemiology.github.io/EpidemiologyProject/syphilis-findings.html",
+            "url": "https://newworldepidemiology.github.io/EpidemiologyProject/syphilis-findings.html",
+            "title": "Syphilis Findings",
+            "summary": "it sucks",
+            "content_html": "it sucks",
+            "author": {
+                "name": "Pavan Tauh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-13T15:43:57-08:00",
+            "date_modified": "2019-11-13T15:43:57-08:00"
+        },
+        {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html",
             "url": "https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html",
             "title": "Introduction",
-            "summary": "While colonizing the Americas, European explorers purposefully spread diseases completely foreign to&hellip;",
+            "summary": "While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily.",
             "content_html": "While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily.",
             "author": {
                 "name": "Pavan Tauh"
