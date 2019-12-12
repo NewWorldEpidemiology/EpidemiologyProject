@@ -3,12 +3,36 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject" />
-    <updated>2019-12-12T13:43:01-08:00</updated>
+    <updated>2019-12-12T13:47:11-08:00</updated>
     <author>
         <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
     </author>
     <id>https://newworldepidemiology.github.io/EpidemiologyProject</id>
 
+    <entry>
+        <title>Pavan Tauh</title>
+        <author>
+            <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/EpidemiologyProject/pavan-tauh.html"/>
+        <id>https://newworldepidemiology.github.io/EpidemiologyProject/pavan-tauh.html</id>
+
+        <updated>2019-12-12T13:46:34-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/10/Pavan.jpg" alt="" />
+                    Pavan Tauh is a sophomore at UT Dallas studying Biology. He is proficient in website design and research gathering. He became involved in this project from interest in researching factors that lead to the disease spreading through the Native American population so quickly. Outside of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/10/Pavan.jpg" alt="" />
+                <p>Pavan Tauh is a sophomore at UT Dallas studying Biology. He is proficient in website design and research gathering. He became involved in this project from interest in researching factors that lead to the disease spreading through the Native American population so quickly.  Outside of class, Pavan is an avid photographer who enjoys hiking through nature, going to the beach, and cruising on his skateboard. </p>
+<p> </p>
+<p>Contact Information: pkt180000@utdallas.edu</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Syphilis</title>
         <author>
@@ -17,7 +41,7 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html</id>
 
-        <updated>2019-12-12T13:40:42-08:00</updated>
+        <updated>2019-12-12T13:45:31-08:00</updated>
             <summary>
                 <![CDATA[
                     We learned stuff.
@@ -108,16 +132,18 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/michelle-patten.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/michelle-patten.html</id>
 
-        <updated>2019-12-12T13:08:42-08:00</updated>
+        <updated>2019-12-12T13:47:07-08:00</updated>
             <summary>
                 <![CDATA[
-                     Michelle is a sophomore from Sammamish, WA, now living in Richardson, TX studying pure mathematics at UT Dallas. She serves as the programming head of this project, in addition to her research in mathematics. Aside from research, she spends most of her time climbing&hellip;
+                        <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/4/Michell.jpg" alt="" />
+                    Michelle is a sophomore from Sammamish, WA, now living in Richardson, TX studying pure mathematics at UT Dallas. She serves as the programming head of this project, in addition to her research in mathematics. Aside from research, she spends most of her time climbing or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/4/Michell.jpg" width="914" height="1280"></p>
-<p>Michelle is a sophomore from Sammamish, WA, now living in Richardson, TX studying pure mathematics at UT Dallas. She serves as the programming head of this project, in addition to her research in mathematics. Aside from research, she spends most of her time climbing or writing for the university's opinion magazine.</p>
+                    <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/4/Michell.jpg" alt="" />
+                <p>Michelle is a sophomore from Sammamish, WA, now living in Richardson, TX studying pure mathematics at UT Dallas. She serves as the programming head of this project, in addition to her research in mathematics. Aside from research, she spends most of her time climbing or writing for the university's opinion magazine.</p>
+<p>Contact Info: map171630@utdallas.edu</p>
             ]]>
         </content>
     </entry>
