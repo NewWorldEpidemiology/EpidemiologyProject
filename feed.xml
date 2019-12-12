@@ -3,12 +3,33 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject" />
-    <updated>2019-12-12T14:10:52-08:00</updated>
+    <updated>2019-12-12T14:26:04-08:00</updated>
     <author>
         <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
     </author>
     <id>https://newworldepidemiology.github.io/EpidemiologyProject</id>
 
+    <entry>
+        <title>General Findings:</title>
+        <author>
+            <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/EpidemiologyProject/general-findings.html"/>
+        <id>https://newworldepidemiology.github.io/EpidemiologyProject/general-findings.html</id>
+
+        <updated>2019-12-12T14:24:53-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Overall, we have found that disease spread faster than Europeans could travel. Just from their landing, Native Americans caught diseases and spread them to other tribes and cities. Due to this rapid spread, Europeans viewed the Native American populations as sicker and thinner than normal.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Overall, we have found that disease spread faster than Europeans could travel. Just from their landing, Native Americans caught diseases and spread them to other tribes and cities. Due to this rapid spread, Europeans viewed the Native American populations as sicker and thinner than normal. </p>
+<p>To address our original question, disease spread organically far more than by European force. Smallpox blankets and other forms of biological warfare may have hurt small groups of Natives during battle, but many Native Americans caught diseases before seeing a European. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pavan Tauh</title>
         <author>
@@ -41,17 +62,18 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html</id>
 
-        <updated>2019-12-12T13:58:39-08:00</updated>
+        <updated>2019-12-12T14:19:30-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/9/sy.jpg" alt="" />
-                    We learned stuff.
+                    Researchers debate the origin of syphilis, and usually agree with one of two theories. The first states that syphilis existed in Europe before Columbus returned, and that it was misdiagnosed as other diseases. The other theory states that it came from the Americas and spread&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/9/sy.jpg" alt="" />
-                We learned stuff.
+                <p>Researchers debate the origin of syphilis, and usually agree with one of two theories. The first states that syphilis existed in Europe before Columbus returned, and that it was misdiagnosed as other diseases. The other theory states that it came from the Americas and spread along Europe only after Columbus returned. </p>
+<p>From our data, the shape of a spread appears for syphilis reportings in Europe and Asia. This support the idea that European explorers brought the disease back with them, while before syphilis existed only in the New World.</p>
             ]]>
         </content>
     </entry>
@@ -63,7 +85,7 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/method.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/method.html</id>
 
-        <updated>2019-12-12T13:59:57-08:00</updated>
+        <updated>2019-12-12T14:14:28-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/8/method.jpg" alt="" />
@@ -114,11 +136,11 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/ben-wise.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/ben-wise.html</id>
 
-        <updated>2019-12-12T13:54:49-08:00</updated>
+        <updated>2019-12-12T14:13:22-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/6/about-us.jpg" alt="" />
-                     Ben Wise is a sophomore studying visual and performing arts. Outside of class, he is the director of the Comet Opera Chorus, a member of the Dallas Symphony Chorus, and a defensive specialist on the UT Dallas men’s volleyball team.
+                     Ben Wise is a sophomore studying visual and performing arts. Outside of class, he is the director of the Comet Opera Chorus, a member of the Dallas Symphony Chorus, and a defensive specialist on the UT Dallas men’s volleyball team. Contact Info: bew170001@utdallas.edu
                 ]]>
             </summary>
         <content type="html">
@@ -126,6 +148,7 @@
                     <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/6/about-us.jpg" alt="" />
                 <p><img class="post__image" src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/6/be.jpg" alt="" width="1280" height="914"></p>
 <p>Ben Wise is a sophomore studying visual and performing arts.  Outside of class, he is the director of the Comet Opera Chorus, a member of the Dallas Symphony Chorus, and a defensive specialist on the UT Dallas men’s volleyball team.</p>
+<p>Contact Info: bew170001@utdallas.edu</p>
             ]]>
         </content>
     </entry>
@@ -222,18 +245,18 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html</id>
 
-        <updated>2019-12-12T14:01:39-08:00</updated>
+        <updated>2019-12-12T14:21:03-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/1/intro.jpg" alt="" />
-                    While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily. Info on Columbian ExchangeHistoriography
+                    While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily. We, the authors, set out to see if the spread&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/1/intro.jpg" alt="" />
                 <p>While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily.</p>
-<p> </p>
+<p> We, the authors, set out to see if the spread of disease was caused more by European colonists or by regular disease spread. </p>
 <ol>
 <li style="list-style-type: none;">
 <ol>

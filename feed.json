@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://newworldepidemiology.github.io/EpidemiologyProject/general-findings.html",
+            "url": "https://newworldepidemiology.github.io/EpidemiologyProject/general-findings.html",
+            "title": "General Findings:",
+            "summary": "Overall, we have found that disease spread faster than Europeans could travel. Just from their landing, Native Americans caught diseases and spread them to other tribes and cities. Due to this rapid spread, Europeans viewed the Native American populations as sicker and thinner than normal.",
+            "content_html": "<p>Overall, we have found that disease spread faster than Europeans could travel. Just from their landing, Native Americans caught diseases and spread them to other tribes and cities. Due to this rapid spread, Europeans viewed the Native American populations as sicker and thinner than normal. </p>\n<p>To address our original question, disease spread organically far more than by European force. Smallpox blankets and other forms of biological warfare may have hurt small groups of Natives during battle, but many Native Americans caught diseases before seeing a European. </p>",
+            "author": {
+                "name": "by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-12T14:24:53-08:00",
+            "date_modified": "2019-12-12T14:24:53-08:00"
+        },
+        {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/pavan-tauh.html",
             "url": "https://newworldepidemiology.github.io/EpidemiologyProject/pavan-tauh.html",
             "title": "Pavan Tauh",
@@ -28,8 +42,8 @@
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html",
             "url": "https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html",
             "title": "Syphilis",
-            "summary": "We learned stuff.",
-            "content_html": "We learned stuff.",
+            "summary": "Researchers debate the origin of syphilis, and usually agree with one of two theories. The first states that syphilis existed in Europe before Columbus returned, and that it was misdiagnosed as other diseases. The other theory states that it came from the Americas and spread&hellip;",
+            "content_html": "<p>Researchers debate the origin of syphilis, and usually agree with one of two theories. The first states that syphilis existed in Europe before Columbus returned, and that it was misdiagnosed as other diseases. The other theory states that it came from the Americas and spread along Europe only after Columbus returned. </p>\n<p>From our data, the shape of a spread appears for syphilis reportings in Europe and Asia. This support the idea that European explorers brought the disease back with them, while before syphilis existed only in the New World.</p>",
             "image": "https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/9/sy.jpg",
             "author": {
                 "name": "by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise"
@@ -37,7 +51,7 @@
             "tags": [
             ],
             "date_published": "2019-12-12T13:40:02-08:00",
-            "date_modified": "2019-12-12T13:58:39-08:00"
+            "date_modified": "2019-12-12T14:19:30-08:00"
         },
         {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/method.html",
@@ -52,7 +66,7 @@
             "tags": [
             ],
             "date_published": "2019-12-12T13:39:09-08:00",
-            "date_modified": "2019-12-12T13:59:57-08:00"
+            "date_modified": "2019-12-12T14:14:28-08:00"
         },
         {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/map.html",
@@ -73,8 +87,8 @@
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/ben-wise.html",
             "url": "https://newworldepidemiology.github.io/EpidemiologyProject/ben-wise.html",
             "title": "Ben Wise",
-            "summary": " Ben Wise is a sophomore studying visual and performing arts. Outside of class, he is the director of the Comet Opera Chorus, a member of the Dallas Symphony Chorus, and a defensive specialist on the UT Dallas men’s volleyball team.",
-            "content_html": "<p><img class=\"post__image\" src=\"https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/6/be.jpg\" alt=\"\" width=\"1280\" height=\"914\"></p>\n<p>Ben Wise is a sophomore studying visual and performing arts.  Outside of class, he is the director of the Comet Opera Chorus, a member of the Dallas Symphony Chorus, and a defensive specialist on the UT Dallas men’s volleyball team.</p>",
+            "summary": " Ben Wise is a sophomore studying visual and performing arts. Outside of class, he is the director of the Comet Opera Chorus, a member of the Dallas Symphony Chorus, and a defensive specialist on the UT Dallas men’s volleyball team. Contact Info: bew170001@utdallas.edu",
+            "content_html": "<p><img class=\"post__image\" src=\"https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/6/be.jpg\" alt=\"\" width=\"1280\" height=\"914\"></p>\n<p>Ben Wise is a sophomore studying visual and performing arts.  Outside of class, he is the director of the Comet Opera Chorus, a member of the Dallas Symphony Chorus, and a defensive specialist on the UT Dallas men’s volleyball team.</p>\n<p>Contact Info: bew170001@utdallas.edu</p>",
             "image": "https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/6/about-us.jpg",
             "author": {
                 "name": "by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise"
@@ -82,7 +96,7 @@
             "tags": [
             ],
             "date_published": "2019-12-12T13:31:01-08:00",
-            "date_modified": "2019-12-12T13:54:49-08:00"
+            "date_modified": "2019-12-12T14:13:22-08:00"
         },
         {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/paul-riddle.html",
@@ -131,8 +145,8 @@
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html",
             "url": "https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html",
             "title": "Introduction",
-            "summary": "While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily. Info on Columbian ExchangeHistoriography",
-            "content_html": "<p>While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily.</p>\n<p> </p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Info on Columbian Exchange</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Historiography</span></li>\n</ol>\n</li>\n</ol>",
+            "summary": "While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily. We, the authors, set out to see if the spread&hellip;",
+            "content_html": "<p>While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily.</p>\n<p> We, the authors, set out to see if the spread of disease was caused more by European colonists or by regular disease spread. </p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Info on Columbian Exchange</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Historiography</span></li>\n</ol>\n</li>\n</ol>",
             "image": "https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/1/intro.jpg",
             "author": {
                 "name": "by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise"
@@ -140,7 +154,7 @@
             "tags": [
             ],
             "date_published": "2019-11-13T11:55:38-08:00",
-            "date_modified": "2019-12-12T14:01:39-08:00"
+            "date_modified": "2019-12-12T14:21:03-08:00"
         }
     ]
 }
