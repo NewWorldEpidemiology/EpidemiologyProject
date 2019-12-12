@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-12-12T14:24:53-08:00",
-            "date_modified": "2019-12-12T14:48:13-08:00"
+            "date_modified": "2019-12-12T15:05:14-08:00"
         },
         {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/pavan-tauh.html",
@@ -103,6 +103,8 @@
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/paul-riddle.html",
             "url": "https://newworldepidemiology.github.io/EpidemiologyProject/paul-riddle.html",
             "title": "Paul Riddle",
+            "summary": "Paul Riddle is a junior undergraduate National Merit Scholar studying molecular biology at the University of Texas at Dallas. He aspires to research diseases’ methods of attack in order to develop novel treatment and is planning on obtaining a doctoral degree in this field before&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Paul Riddle is a junior undergraduate National Merit Scholar studying molecular biology at the University of Texas at Dallas. He aspires to research diseases’ methods of attack in order to develop novel treatment and is planning on obtaining a doctoral degree in this field before moving into a career of disease research. His hobbies include hiking when home in Seattle, reading science fiction and fantasy epics, and working in Dr. Dennis Miller’s molecular biology laboratory at UTD. He hopes </span><i><span style=\"font-weight: 400;\">New World Epidemiology</span></i><span style=\"font-weight: 400;\">’s look into the diseases that devastated Native Americans brings new understanding of pathogens’ extraordinary effect on human history, as well as our responsibility to manage this threat moving forward.</span></p>",
             "image": "https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/5/about-us.jpg",
             "author": {
                 "name": "by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise"
@@ -110,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2019-12-12T13:30:55-08:00",
-            "date_modified": "2019-12-12T13:54:31-08:00"
+            "date_modified": "2019-12-12T15:06:14-08:00"
         },
         {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/michelle-patten.html",

@@ -3,7 +3,7 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject" />
-    <updated>2019-12-12T15:03:15-08:00</updated>
+    <updated>2019-12-12T15:06:18-08:00</updated>
     <author>
         <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/general-findings.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/general-findings.html</id>
 
-        <updated>2019-12-12T14:48:13-08:00</updated>
+        <updated>2019-12-12T15:05:14-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/11/diseased-findings.jpg" alt="" />
@@ -162,9 +162,19 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/paul-riddle.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/paul-riddle.html</id>
 
-        <updated>2019-12-12T13:54:31-08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-12-12T15:06:14-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/5/about-us.jpg" alt="" />
+                    Paul Riddle is a junior undergraduate National Merit Scholar studying molecular biology at the University of Texas at Dallas. He aspires to research diseases’ methods of attack in order to develop novel treatment and is planning on obtaining a doctoral degree in this field before&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/5/about-us.jpg" alt="" />
+                <p><span style="font-weight: 400;">Paul Riddle is a junior undergraduate National Merit Scholar studying molecular biology at the University of Texas at Dallas. He aspires to research diseases’ methods of attack in order to develop novel treatment and is planning on obtaining a doctoral degree in this field before moving into a career of disease research. His hobbies include hiking when home in Seattle, reading science fiction and fantasy epics, and working in Dr. Dennis Miller’s molecular biology laboratory at UTD. He hopes </span><i><span style="font-weight: 400;">New World Epidemiology</span></i><span style="font-weight: 400;">’s look into the diseases that devastated Native Americans brings new understanding of pathogens’ extraordinary effect on human history, as well as our responsibility to manage this threat moving forward.</span></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Michelle Patten</title>
