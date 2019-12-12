@@ -3,12 +3,79 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject" />
-    <updated>2019-12-12T13:32:52-08:00</updated>
+    <updated>2019-12-12T13:41:43-08:00</updated>
     <author>
         <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
     </author>
     <id>https://newworldepidemiology.github.io/EpidemiologyProject</id>
 
+    <entry>
+        <title>Syphilis</title>
+        <author>
+            <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html"/>
+        <id>https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html</id>
+
+        <updated>2019-12-12T13:40:42-08:00</updated>
+            <summary>
+                <![CDATA[
+                    We learned stuff.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                We learned stuff.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Method</title>
+        <author>
+            <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/EpidemiologyProject/method.html"/>
+        <id>https://newworldepidemiology.github.io/EpidemiologyProject/method.html</id>
+
+        <updated>2019-12-12T13:39:49-08:00</updated>
+            <summary>
+                <![CDATA[
+                    To begin our project, we accumulated data from online scholarly articles and books from our library. We searched for maps, movements of diseases and facts of disease spread. We also emailed tribal leaders for any information and guidance they could provide. Next, we compiled these&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To begin our project, we accumulated data from online scholarly articles and books from our library. We searched for maps, movements of diseases and facts of disease spread. We also emailed tribal leaders for any information and guidance they could provide.</p>
+<p>Next, we compiled these datapoints into an Excel sheet and added metadata to help with the graphing process. We noted the date, location, disease, source, and any related information that could either explain or be explained from this event.</p>
+<p>At the same time, we built a website first through WordPress, but eventually we changed it to GitHub, using Publii to design it. We looked to other map projects such as Photogrammar and al Turraya to learn what features were possible in Leaflet (our mapping tool), and which ones we wanted to add to our own map.</p>
+<p>As we gained new insights, we wrote them down into a PowerPoint and document. We presented what knowledge we gained to our peers. With their help, we created a document with feedback and ways for us to improve and clarify our project.</p>
+<p>The map came next, with us adding datapoints to create a basic map in leaflet.</p>
+<p>Finally, we compiled our information online. </p>
+<p>These tools were chosen to help us create our project in an efficient and accurate way. Microsoft Word and Google Docs were used to write, with Word being superior offline and Docs being superior for collaboration. Google Sheets allowed each of us to add datapoints gathered to a common place. These datapoints allowed us to build the map in Leaflet, which we chose for its features (gathered in other DH projects) and compatibility. Github and Publii were chosen to build and host the website. A peer recommended these programs to us, and we enjoyed using them.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Map</title>
+        <author>
+            <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/EpidemiologyProject/map.html"/>
+        <id>https://newworldepidemiology.github.io/EpidemiologyProject/map.html</id>
+
+        <updated>2019-12-12T13:37:12-08:00</updated>
+            <summary>
+                <![CDATA[
+                     While our map is currently under contruction, presented above is a snapshot with our datapoints for Syphilis plotted in grey. As we progress we hope to add different map overlays and connect the points of common diseases to create a visual web.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/7/Map.jpg" alt="" width="1280" height="625"></p>
+<p>While our map is currently under contruction, presented above is a snapshot with our datapoints for Syphilis plotted in grey. As we progress we hope to add different map overlays and connect the points of common diseases to create a visual web.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ben Wise</title>
         <author>
