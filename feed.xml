@@ -3,7 +3,7 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/EpidemiologyProject" />
-    <updated>2019-12-12T13:54:56-08:00</updated>
+    <updated>2019-12-12T14:02:24-08:00</updated>
     <author>
         <name>by Michelle Patten, Paul Riddle, Pavan Tauh and Ben Wise</name>
     </author>
@@ -41,14 +41,16 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/syphilis.html</id>
 
-        <updated>2019-12-12T13:45:31-08:00</updated>
+        <updated>2019-12-12T13:58:39-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/9/sy.jpg" alt="" />
                     We learned stuff.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/9/sy.jpg" alt="" />
                 We learned stuff.
             ]]>
         </content>
@@ -61,14 +63,16 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/method.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/method.html</id>
 
-        <updated>2019-12-12T13:39:49-08:00</updated>
+        <updated>2019-12-12T13:59:57-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/8/method.jpg" alt="" />
                     To begin our project, we accumulated data from online scholarly articles and books from our library. We searched for maps, movements of diseases and facts of disease spread. We also emailed tribal leaders for any information and guidance they could provide. Next, we compiled these&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/8/method.jpg" alt="" />
                 <p>To begin our project, we accumulated data from online scholarly articles and books from our library. We searched for maps, movements of diseases and facts of disease spread. We also emailed tribal leaders for any information and guidance they could provide.</p>
 <p>Next, we compiled these datapoints into an Excel sheet and added metadata to help with the graphing process. We noted the date, location, disease, source, and any related information that could either explain or be explained from this event.</p>
 <p>At the same time, we built a website first through WordPress, but eventually we changed it to GitHub, using Publii to design it. We looked to other map projects such as Photogrammar and al Turraya to learn what features were possible in Leaflet (our mapping tool), and which ones we wanted to add to our own map.</p>
@@ -87,14 +91,16 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/map.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/map.html</id>
 
-        <updated>2019-12-12T13:37:12-08:00</updated>
+        <updated>2019-12-12T14:00:45-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/7/leaf.jpg" alt="" />
                      While our map is currently under contruction, presented above is a snapshot with our datapoints for Syphilis plotted in grey. As we progress we hope to add different map overlays and connect the points of common diseases to create a visual web.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/7/leaf.jpg" alt="" />
                 <p><img class="post__image" src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/7/Map.jpg" alt="" width="1280" height="625"></p>
 <p>While our map is currently under contruction, presented above is a snapshot with our datapoints for Syphilis plotted in grey. As we progress we hope to add different map overlays and connect the points of common diseases to create a visual web.</p>
             ]]>
@@ -167,7 +173,7 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/sources.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/sources.html</id>
 
-        <updated>2019-12-12T12:59:45-08:00</updated>
+        <updated>2019-12-12T14:02:19-08:00</updated>
             <summary>
                 <![CDATA[
                     Videos: CGP Grey Video: “Americapox: The Missing Plaque” https://youtu.be/JEYh5WACqEk eHistory.org Video:“The Invasion of America” https://youtu.be/pJxrTzfG2bo Books: Crosby, Alfred W. The Columbian Exchange: Biological and Cultural Consequences of 1492. New York: Praeger, 2003. Seed, Patricia. Ceremonies of Possession: Europe’s Conquest of the New World, 1492– 1640.
@@ -207,14 +213,16 @@
         <link href="https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html"/>
         <id>https://newworldepidemiology.github.io/EpidemiologyProject/introduction.html</id>
 
-        <updated>2019-12-12T12:45:19-08:00</updated>
+        <updated>2019-12-12T14:01:39-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/1/intro.jpg" alt="" />
                     While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily. Info on Columbian ExchangeHistoriography
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/EpidemiologyProject/media/posts/1/intro.jpg" alt="" />
                 <p>While colonizing the Americas, European explorers purposefully spread diseases completely foreign to the land’s natives. The Native Americans had no time to build immune defenses to these often deliberately galvanized pathogens and thus suffered heavily.</p>
 <p> </p>
 <ol>
