@@ -10,6 +10,30 @@
     },
     "items": [
         {
+            "id": "https://newworldepidemiology.github.io/EpidemiologyProject/ben-wise.html",
+            "url": "https://newworldepidemiology.github.io/EpidemiologyProject/ben-wise.html",
+            "title": "Ben Wise",
+            "author": {
+                "name": "by Patten, Riddle, Tauh and Wise"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-12T13:31:01-08:00",
+            "date_modified": "2019-12-12T13:31:01-08:00"
+        },
+        {
+            "id": "https://newworldepidemiology.github.io/EpidemiologyProject/paul-riddle.html",
+            "url": "https://newworldepidemiology.github.io/EpidemiologyProject/paul-riddle.html",
+            "title": "Paul Riddle",
+            "author": {
+                "name": "by Patten, Riddle, Tauh and Wise"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-12T13:30:55-08:00",
+            "date_modified": "2019-12-12T13:30:55-08:00"
+        },
+        {
             "id": "https://newworldepidemiology.github.io/EpidemiologyProject/michelle-patten.html",
             "url": "https://newworldepidemiology.github.io/EpidemiologyProject/michelle-patten.html",
             "title": "Michelle Patten",
